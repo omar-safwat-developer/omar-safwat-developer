@@ -5,7 +5,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Python Developer & Cybersecurity Enthusiast**. I focus on writing clean, optimized code to **build secure software, automation tools, and smart applications**. By combining my computer science background with data science and AI, I develop robust solutions that protect data and optimize complex workflows.
+I am a **Python Developer & Cybersecurity Enthusiast**. I focus on writing clean, optimized code to **build secure software, automation tools, and smart applications**. By combining my computer science expertise with data science and AI, I develop robust solutions that protect data and optimize complex workflows.
 
 * 🛡️ **Secure Software Development:** Applying cyber defense principles, secure coding practices, and vulnerability awareness to build robust tech solutions.
 * 🤖 **Automation Tools & Scraping:** Crafting high-performance scripts for advanced web scraping, data extraction, and workflow automation.
