@@ -1,16 +1,16 @@
 # Hi there, I'm Omar Safwat! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Python+Developer;Cybersecurity+Enthusiast;Secure+Software+%26+Automation;AI+%26+Data+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Python+Developer;Cybersecurity+Enthusiast;Building+Secure+Software;Automation+Tools+%26+Smart+Apps" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
-I am a passionate **Python & Web Developer** with a strong foundation in Computer Science and a deep enthusiasm for **Cybersecurity**. My ultimate goal is to build secure, scalable software and automated solutions that protect data and optimize complex workflows.
+I am a **Python Developer & Cybersecurity Enthusiast**. I focus on writing clean, optimized code to **build secure software, automation tools, and smart applications**. By combining my computer science background with data science and AI, I develop robust solutions that protect data and optimize complex workflows.
 
-* 🛡️ **Cybersecurity & Security:** Integrating secure coding practices, vulnerability awareness, and building defense-ready applications.
-* 🌐 **Full-Stack Programming:** Experienced in building robust logic and web architectures using Python, PHP, HTML5, and CSS3.
-* 🤖 **Automation & Web Scraping:** Crafting high-performance scripts for data extraction, manipulation, and workflow automation.
-* 🧠 **AI & Data Science:** Utilizing Machine Learning, Deep Learning, and Data Analysis to embed intelligence into Desktop, Mobile, and Web applications.
+* 🛡️ **Secure Software Development:** Applying cyber defense principles, secure coding practices, and vulnerability awareness to build robust tech solutions.
+* 🤖 **Automation Tools & Scraping:** Crafting high-performance scripts for advanced web scraping, data extraction, and workflow automation.
+* 🧠 **Smart Applications:** Utilizing Machine Learning, Deep Learning, and Data Analysis to embed intelligence into Desktop, Mobile, and Web applications.
+* 🌐 **Core Programming:** Solid foundation in computer science and web technologies including Python, PHP, HTML5, CSS3, and Git.
 
 ---
 
@@ -49,7 +49,7 @@ I am a passionate **Python & Web Developer** with a strong foundation in Compute
   </tr>
 </table>
 
-**Core Domains:** Computer Science | Cyber Security | Data Science & Analytics | Machine Learning & Deep Learning | Multi-Platform App Development (Desktop & Mobile)
+**Technical Interests:** Computer Science | Cyber Security | Data Science & Analytics | Machine Learning & Deep Learning | Multi-Platform App Development
 
 ---
 
